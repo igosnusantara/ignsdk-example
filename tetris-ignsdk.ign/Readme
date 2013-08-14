@@ -1,0 +1,21 @@
+1. pastikan IGN-SDK SUDAH TERPASANG BAIK
+2. lakukan perintah di bawah ini
+	-buka terminal ( menuju direktory app memanfaatkan cd :v )
+	-sudo sh install.sh *
+	
+3. uninstall
+	-buka terminal ( menuju direktory app memanfaatkan cd :v )
+	-sudo sh uninstall.sh **
+	
+
+
+
+
+*
+-su
+-sh install.sh
+
+**
+-su
+-sh uninstall.sh
+

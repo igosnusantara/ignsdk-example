@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Name=Tetris-ignsdk
+Exec=/usr/bin/tetris
+Icon=/opt/tetris-ignsdk/imgs/logo.png
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;Game;
+StartupNotify=true
+

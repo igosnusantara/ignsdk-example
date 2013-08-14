@@ -1,0 +1,13 @@
+{
+  "config" : { "debug" : true,
+    "websecurity" : true,
+    "name" : "Tetris" },
+  "window" : { 
+	"transparent" : false, 
+	"noframe" : true, 
+	"fullscreen" : false,
+	"width":"337", "height":"475" 
+	 },
+  "button" : [
+			]
+}
